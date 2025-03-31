@@ -73,16 +73,16 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Database files
-*.db
-*.db-journal
-*.sqlite
-*.sqlite3
+# Database files - Commented out as the deliverables should contain the SQLite database
+#*.db
+#*.db-journal
+#*.sqlite
+#*.sqlite3
 
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
 
-# Application specific
-booktracker.db
-booktracker.db-journal
+# Application specific - Commented out as the deliverables should contain the SQLite database
+#booktracker.db
+#booktracker.db-journal
