@@ -64,7 +64,7 @@ The application uses SQLite with the following schema:
 
 When you run the application, you'll be presented with a menu of options:
 
-1. **Add a new user**: Add a user with a name, age, and gender
+1. **Add a new user**: Add a user with a name, age, and gender (In this functionality requirement 9 is included: "Add a column to the User table named "Name" which contains TEXT data"
 2. **View reading habits for a user**: Display all reading habits for a specific user (can search by ID or name)
 3. **Change a book title**: Update all instances of a book title in the database
 4. **Delete a reading habit record**: Remove a specific reading habit by ID
